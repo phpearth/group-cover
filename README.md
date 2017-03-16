@@ -22,7 +22,7 @@ please check if it corresponds with the following rules:
   described at the bottom of this file
 * Don't sign graphics with your logo or name (your contribition will be noted
   elsewhere for this purpose)
-* For inspiration please check [previous cover photos](https://github.com/wwphp-fb/group-cover/releases)
+* For inspiration please check [previous cover photos](https://github.com/php-earth/group-cover/releases)
 * Be creative :)
 
 ## Versioning
