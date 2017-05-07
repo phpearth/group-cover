@@ -1,16 +1,16 @@
-# International PHP Facebook group's cover photo
+# Cover Photo for the Global PHP Group on Facebook
 
 ## About
 
 This repository holds graphics and instructions for the cover photo of the
-International PHP Facebook group.
+[Global PHP Group on Facebook](https://www.facebook.com/groups/2204685680/).
 
-## Contributing cover photo
+## Contributing Cover Photo
 
 You can propose your vision of the cover photo of course. Before doing that
 please check if it corresponds with the following rules:
 
-* Size of the image must be 785x249 px
+* Size of the image must fit the requirement for different devices
 * Exported format must be PNG
 * Graphics should include a link to the group's rules and describe the main context
   of this group i.e. **PHP**
