@@ -1,11 +1,13 @@
 # Cover Photo for the Global PHP Group on Facebook
 
-## About
-
 This repository holds graphics and instructions for the cover photo of the
 [Global PHP Group on Facebook](https://www.facebook.com/groups/2204685680/).
 
-## Contributing Cover Photo
+<div align="center">
+  <img src="https://cdn.rawgit.com/php-earth/logo/master/svg/indigo.svg" width="300">
+</div>
+
+## Contributing cover photo
 
 You can propose your vision of the cover photo of course. Before doing that
 please check if it corresponds with the following rules:
