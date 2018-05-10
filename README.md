@@ -4,7 +4,7 @@ This repository includes graphics and instructions for the cover photo of the
 [Global PHP Group on Facebook](https://www.facebook.com/groups/2204685680/).
 
 <div align="center">
-  <img src="https://cdn.rawgit.com/php-earth/logo/master/svg/indigo.svg" width="300">
+  <img src="https://cdn.rawgit.com/phpearth/logo/master/svg/indigo.svg" width="300">
 </div>
 
 ## Contributing cover photo
@@ -25,7 +25,7 @@ please check if it corresponds with the following rules:
   described at the bottom of this file.
 * Don't sign graphics with your logo or name (your contribition will be noted
   elsewhere for this purpose).
-* For inspiration please check [previous cover photos](https://github.com/php-earth/group-cover/releases).
+* For inspiration please check [previous cover photos](https://github.com/phpearth/group-cover/releases).
 * Be creative :)
 
 ## Versioning
